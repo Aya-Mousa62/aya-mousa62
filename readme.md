@@ -27,17 +27,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aya-mousa62/aya-mousa62/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aya-mousa62&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <br />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aya-mousa62&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-###
