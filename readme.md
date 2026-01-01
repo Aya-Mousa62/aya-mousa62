@@ -24,6 +24,8 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=ts" height="51" alt="typescript logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=react" height="51" alt="react logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo"  />
 </div>
 
